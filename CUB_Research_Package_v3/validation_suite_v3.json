@@ -1,0 +1,16 @@
+{
+  "valid_notebook": true,
+  "all_15_code_cells_executed": true,
+  "synthetic_images": 80,
+  "synthetic_classes": 4,
+  "all_11_variants_trained": true,
+  "policies_reported": 51,
+  "robustness_rows": 147,
+  "calibration_boundary_checked": true,
+  "normalized_score_invariance_checked": true,
+  "phase2_freeze_checked": true,
+  "interrupted_resume_identical": true,
+  "real_CUB_run": false,
+  "real_DINO_run": false,
+  "test_directory": "/private/tmp/cub_suite_test_50ka4yfy"
+}
